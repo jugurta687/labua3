@@ -4,5 +4,8 @@
                             2- Analyseur Statistique
                             3- Csv Reader
                             4- Statistique
-Bouachra Wafa
+# Bouachra Wafa
                Les classe a faire :
+                            1-Main
+                            2-RapportTexteWriter
+                            3-RapportWriter
