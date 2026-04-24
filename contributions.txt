@@ -1,0 +1,11 @@
+
+Wafa :
+•	Main.java : Développement de la classe principale, gestion du point d'entrée du programme et orchestration des flux.
+•	RapportWriter.java : Conception de l'interface ou de la classe de base pour la génération des rapports.
+•	RapportTexteWriter.java : Implémentation spécifique pour l'écriture et le formatage des résultats dans un fichier texte.
+
+Jugurta :
+•	CsvReader.java : Développement du module de lecture, parsing et traitement initial des fichiers CSV.
+•	AnalyseurAbstrait.java : Création de la structure abstraite permettant la mise en place de différents types d'analyses.
+•	AnalyseurStatistique.java : Implémentation de la logique d'analyse métier sur les données extraites.
+•	Statistique.java : Développement des outils de calcul (minimum, maximum, moyenne, etc.) utilisés par l'analyseur.
