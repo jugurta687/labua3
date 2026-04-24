@@ -2,8 +2,8 @@
  
 ## Membres d'équipe
 
--Wafa Bouachra : Développement de la logique principale, gestion des interfaces et écriture des rapports.
--Jugurta Haddad : Développement de la lecture des fichiers, de l'abstraction des analyseurs et du moteur de calcul statistique.
+- Wafa Bouachra : Développement de la logique principale, gestion des interfaces et écriture des rapports.
+- Jugurta Haddad : Développement de la lecture des fichiers, de l'abstraction des analyseurs et du moteur de calcul statistique.
  
 ## Projet 3: Analyse d’un fichier CSV
 
